@@ -1,1 +1,2 @@
 # TIC2Zigbee
+This document outlines the Zigbee clusters, attributes, and commands utilized in the implementation of an ERL interface. It also details the mapping between TIC fields and the Zigbee attributes and commands associated with the ERL interface (Device ID 0x0509). While this data mapping is not mandatory, it is recommended by Enedis.
