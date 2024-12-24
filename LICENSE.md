@@ -1,3 +1,5 @@
+CC BY-ND 4.0
+
 Attribution-NoDerivatives 4.0 International
 
 =======================================================================
