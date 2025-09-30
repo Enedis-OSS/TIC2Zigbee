@@ -23,10 +23,6 @@ You don't need to be a developer to contribute, nor do much, you can simply:
 * [Give us advices or ideas](https://github.com/Enedis-OSS/TIC2Zigbee/issues/new/choose),
 * etc.
 
-To help you start, we invite you to read [Contributing](CONTRIBUTING.md), which gives you rules and code conventions to respect
-
-To contribute to this documentation (README, CONTRIBUTING, etc.), we conform to the [CommonMark Spec](https://spec.commonmark.org/)
-
 ## <a name="contributors"></a> Contributors
 
 Core contributors :
