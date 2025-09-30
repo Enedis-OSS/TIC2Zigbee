@@ -1,6 +1,6 @@
-# Detailed Zigbee attributes and mapping for ERL Interface (Device ID 0x0509)
+# Data mapping between the Linky meter's TIC (real-time data interface) and the Zigbee ERL Interface Device Specification (Device ID 0x0509)
 
-- [Detailed Zigbee attributes and mapping for ERL Interface (Device ID 0x0509)](#detailed-zigbee-attributes-and-mapping-for-erl-interface-device-id-0x0509)
+- [Data mapping between the Linky meter's TIC (real-time data interface) and the Zigbee ERL Interface Device Specification (Device ID 0x0509)](#Data mapping between the Linky meter's TIC (real-time data interface) and the Zigbee ERL Interface Device Specification-device-id-0x0509)
   - [Introduction](#introduction)
   - [Basic 0x0000](#basic-0x0000)
     - [Attributes](#attributes)
