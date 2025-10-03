@@ -26,8 +26,9 @@ You don't need to be a developer to contribute, nor do much, you can simply:
 ## <a name="contributors"></a> Contributors
 
 Core contributors :
-* **Vincent Illonet** (<vincent.illionnet@edf.fr>)
+* **Vincent Illionet** (<vincent.illionnet@edf.fr>)
 * **Christophe Santander** (<christophe.santander@edf.fr>)
+* **Vincent Finet** (<vincent.finet@edf.fr>)
 * **Benoît Descotes-Genon** (<benoit.descotes-genon@enedis.fr>)
 * **Thibaud Letellier** (<thibaud-externe.letellier@enedis.fr>)
 
