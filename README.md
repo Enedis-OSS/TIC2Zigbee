@@ -13,7 +13,7 @@ This document outlines the Zigbee clusters, attributes, and commands utilized in
 
 [CSA - ERL Interface Device Specification](https://csa-iot.org/developer-resource/specifications-download-request/)
 
-[enedis - TIC Interface Specification](https://www.enedis.fr/media/2035/download](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjdzJ6U1ZSQAxUadqQEHXx0KsMQFnoECBcQAQ&url=https%3A%2F%2Fwww.enedis.fr%2Fmedia%2F2035%2Fdownload&usg=AOvVaw0Bn9Pv64VK2dhbtmrZD8YD&opi=89978449)
+[enedis - TIC Interface Specification](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjdzJ6U1ZSQAxUadqQEHXx0KsMQFnoECBcQAQ&url=https%3A%2F%2Fwww.enedis.fr%2Fmedia%2F2035%2Fdownload&usg=AOvVaw0Bn9Pv64VK2dhbtmrZD8YD&opi=89978449)
 
 ## <a name="contrib"></a> Contributing ?
 
